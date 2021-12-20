@@ -1,0 +1,32 @@
+{
+    "id": "B1C57605",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1640016797779.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "expression": "GroupedData",
+        "caption": "GroupedData",
+        "totalObservations": 8375175,
+        "displayedObservations": 8375175,
+        "variables": 12,
+        "cacheKey": "767C9276",
+        "object": "GroupedData",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=GroupedData&cache_key=767C9276&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 140542487718920,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1640016797779,
+    "read_only": false,
+    "read_only_alternatives": []
+}
